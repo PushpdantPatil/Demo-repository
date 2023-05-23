@@ -4,4 +4,4 @@ C:\Program Files\Microsoft SQL Server\160\Setup Bootstrap\Log\20230515_125733
 
 C:\Users\bhush
 
-LAPTOP-UQL904U7 :laptop Name
+LAPTOP-UQL904U7 :laptop test Name
